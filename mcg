@@ -73,6 +73,7 @@ main.Position = UDim2.new(0.240892857, 0, 0.29535231, 0)
 main.Size = UDim2.new(0, 514, 0, 352)
 main.Active = true
 main.Draggable = false
+main.Visible = false
 
 Close.Name = "Close"
 Close.Parent = main
